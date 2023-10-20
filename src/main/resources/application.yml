@@ -1,1 +1,11 @@
+server:
+  port: 8080
 
+
+spring:
+  # mail
+  mail:
+    host: smtp.qq.com
+    username: xichen.public@foxmail.com
+    password: hophcxabmdulbhae
+    default-encoding: UTF-8
