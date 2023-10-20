@@ -1,0 +1,13 @@
+# idea相关文件
+.idea/
+
+# maven相关文件
+.mvn/
+mvnw
+mvnw.cmd
+
+# target
+target/
+
+# test
+src/test/
